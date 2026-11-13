@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "フォルダアイコンの背景を隠す";
 "Hide Open Folder Background" = "開いたフォルダの背景を隠す";
 "Hide Folder Titles" = "フォルダ名を隠す";
+"Hide Folder Names on Home Screen" = "ホーム画面のフォルダ名を隠す";
 "When enabled, tap anywhere on the screen to close the folder." = "オンにすると、画面のどこかをタップしてフォルダを閉じます。";
 "Tap to Close" = "タップで閉じる";
 "When enabled, the folder closes when you open an app in it." = "オンにすると、フォルダ内のアプリを開いたときにフォルダが閉じます。";

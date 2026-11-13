@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "Dölj mappsymbolens bakgrund";
 "Hide Open Folder Background" = "Dölj öppna mappens bakgrund";
 "Hide Folder Titles" = "Dölj mappnamn";
+"Hide Folder Names on Home Screen" = "Dölj mappnamn på hemskärmen";
 "When enabled, tap anywhere on the screen to close the folder." = "När det är aktiverat trycker du var som helst på skärmen för att stänga mappen.";
 "Tap to Close" = "Tryck för att stänga";
 "When enabled, the folder closes when you open an app in it." = "När det är aktiverat stängs mappen när du öppnar en app i den.";

@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "Verberg achtergrond van mapsymbool";
 "Hide Open Folder Background" = "Verberg achtergrond van geopende map";
 "Hide Folder Titles" = "Verberg mapnamen";
+"Hide Folder Names on Home Screen" = "Verberg mapnamen op beginscherm";
 "When enabled, tap anywhere on the screen to close the folder." = "Indien ingeschakeld, tik je ergens op het scherm om de map te sluiten.";
 "Tap to Close" = "Tik om te sluiten";
 "When enabled, the folder closes when you open an app in it." = "Indien ingeschakeld, sluit de map wanneer je er een app uit opent.";

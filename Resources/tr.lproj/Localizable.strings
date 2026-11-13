@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "Klasör simgesi arka planını gizle";
 "Hide Open Folder Background" = "Açık klasör arka planını gizle";
 "Hide Folder Titles" = "Klasör adlarını gizle";
+"Hide Folder Names on Home Screen" = "Ana ekranda klasör adlarını gizle";
 "When enabled, tap anywhere on the screen to close the folder." = "Etkinleştirildiğinde, klasörü kapatmak için ekranda herhangi bir yere dokunun.";
 "Tap to Close" = "Kapatmak için dokun";
 "When enabled, the folder closes when you open an app in it." = "Etkinleştirildiğinde, içindeki bir uygulamayı açtığınızda klasör kapanır.";

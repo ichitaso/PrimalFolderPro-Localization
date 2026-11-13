@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "फ़ोल्डर आइकन की पृष्ठभूमि छिपाएँ";
 "Hide Open Folder Background" = "खुले फ़ोल्डर की पृष्ठभूमि छिपाएँ";
 "Hide Folder Titles" = "फ़ोल्डर शीर्षक छिपाएँ";
+"Hide Folder Names on Home Screen" = "होम स्क्रीन पर फ़ोल्डर नाम छिपाएँ";
 "When enabled, tap anywhere on the screen to close the folder." = "चालू होने पर, फ़ोल्डर बंद करने के लिए स्क्रीन पर कहीं भी टैप करें।";
 "Tap to Close" = "टैप करके बंद करें";
 "When enabled, the folder closes when you open an app in it." = "चालू होने पर, फ़ोल्डर के अंदर का ऐप खोलने पर फ़ोल्डर बंद हो जाता है।";

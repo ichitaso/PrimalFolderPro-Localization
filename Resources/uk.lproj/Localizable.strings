@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "Сховати фон значка папки";
 "Hide Open Folder Background" = "Сховати фон відкритої папки";
 "Hide Folder Titles" = "Сховати назви папок";
+"Hide Folder Names on Home Screen" = "Сховати назви папок на початковому екрані";
 "When enabled, tap anywhere on the screen to close the folder." = "Якщо ввімкнено, торкніться будь-де на екрані, щоб закрити папку.";
 "Tap to Close" = "Закривати дотиком";
 "When enabled, the folder closes when you open an app in it." = "Якщо ввімкнено, папка закривається, коли ви відкриваєте програму з неї.";

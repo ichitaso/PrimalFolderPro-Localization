@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "Ẩn nền biểu tượng thư mục";
 "Hide Open Folder Background" = "Ẩn nền thư mục đang mở";
 "Hide Folder Titles" = "Ẩn tên thư mục";
+"Hide Folder Names on Home Screen" = "Ẩn tên thư mục trên Màn hình chính";
 "When enabled, tap anywhere on the screen to close the folder." = "Khi bật, chạm vào bất kỳ đâu trên màn hình để đóng thư mục.";
 "Tap to Close" = "Chạm để đóng";
 "When enabled, the folder closes when you open an app in it." = "Khi bật, thư mục sẽ đóng khi bạn mở một ứng dụng trong đó.";

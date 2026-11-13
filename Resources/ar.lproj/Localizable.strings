@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "إخفاء خلفية أيقونة المجلد";
 "Hide Open Folder Background" = "إخفاء خلفية المجلد المفتوح";
 "Hide Folder Titles" = "إخفاء أسماء المجلدات";
+"Hide Folder Names on Home Screen" = "إخفاء أسماء المجلدات على الشاشة الرئيسية";
 "When enabled, tap anywhere on the screen to close the folder." = "عند التفعيل، انقر في أي مكان على الشاشة لإغلاق المجلد.";
 "Tap to Close" = "النقر للإغلاق";
 "When enabled, the folder closes when you open an app in it." = "عند التفعيل، يُغلق المجلد عند فتح تطبيق بداخله.";

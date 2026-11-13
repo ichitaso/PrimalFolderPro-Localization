@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "Ocultar fundo do ícone de pasta";
 "Hide Open Folder Background" = "Ocultar fundo da pasta aberta";
 "Hide Folder Titles" = "Ocultar títulos das pastas";
+"Hide Folder Names on Home Screen" = "Ocultar nomes das pastas no ecrã principal";
 "When enabled, tap anywhere on the screen to close the folder." = "Quando ativado, toque em qualquer ponto do ecrã para fechar a pasta.";
 "Tap to Close" = "Tocar para fechar";
 "When enabled, the folder closes when you open an app in it." = "Quando ativado, a pasta fecha quando abre uma app nela.";

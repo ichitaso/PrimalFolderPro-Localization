@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "Nascondi sfondo icona cartella";
 "Hide Open Folder Background" = "Nascondi sfondo cartella aperta";
 "Hide Folder Titles" = "Nascondi titoli cartelle";
+"Hide Folder Names on Home Screen" = "Nascondi nomi cartelle nella schermata Home";
 "When enabled, tap anywhere on the screen to close the folder." = "Se attivo, tocca un punto qualsiasi dello schermo per chiudere la cartella.";
 "Tap to Close" = "Tocca per chiudere";
 "When enabled, the folder closes when you open an app in it." = "Se attivo, la cartella si chiude quando apri un’app al suo interno.";

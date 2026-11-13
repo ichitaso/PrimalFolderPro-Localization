@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "הסתר רקע צלמית תיקייה";
 "Hide Open Folder Background" = "הסתר רקע תיקייה פתוחה";
 "Hide Folder Titles" = "הסתר שמות תיקיות";
+"Hide Folder Names on Home Screen" = "הסתר שמות תיקיות במסך הבית";
 "When enabled, tap anywhere on the screen to close the folder." = "כשמופעל, הקש בכל מקום במסך כדי לסגור את התיקייה.";
 "Tap to Close" = "הקש לסגירה";
 "When enabled, the folder closes when you open an app in it." = "כשמופעל, התיקייה נסגרת כשפותחים יישום שבתוכה.";

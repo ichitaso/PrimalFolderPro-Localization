@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "폴더 아이콘 배경 숨기기";
 "Hide Open Folder Background" = "열린 폴더 배경 숨기기";
 "Hide Folder Titles" = "폴더 이름 숨기기";
+"Hide Folder Names on Home Screen" = "홈 화면의 폴더 이름 숨기기";
 "When enabled, tap anywhere on the screen to close the folder." = "켜면 화면 아무 곳이나 탭하여 폴더를 닫습니다.";
 "Tap to Close" = "탭하여 닫기";
 "When enabled, the folder closes when you open an app in it." = "켜면 폴더 안의 앱을 열 때 폴더가 닫힙니다.";

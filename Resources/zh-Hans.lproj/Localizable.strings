@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "隐藏文件夹图标背景";
 "Hide Open Folder Background" = "隐藏打开的文件夹背景";
 "Hide Folder Titles" = "隐藏文件夹标题";
+"Hide Folder Names on Home Screen" = "隐藏主屏幕上的文件夹名称";
 "When enabled, tap anywhere on the screen to close the folder." = "启用后，轻点屏幕任意位置即可关闭文件夹。";
 "Tap to Close" = "轻点关闭";
 "When enabled, the folder closes when you open an app in it." = "启用后，打开文件夹中的 App 时文件夹会关闭。";

@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "ซ่อนพื้นหลังไอคอนโฟลเดอร์";
 "Hide Open Folder Background" = "ซ่อนพื้นหลังโฟลเดอร์ที่เปิดอยู่";
 "Hide Folder Titles" = "ซ่อนชื่อโฟลเดอร์";
+"Hide Folder Names on Home Screen" = "ซ่อนชื่อโฟลเดอร์บนหน้าจอโฮม";
 "When enabled, tap anywhere on the screen to close the folder." = "เมื่อเปิดใช้งาน แตะที่ใดก็ได้บนหน้าจอเพื่อปิดโฟลเดอร์";
 "Tap to Close" = "แตะเพื่อปิด";
 "When enabled, the folder closes when you open an app in it." = "เมื่อเปิดใช้งาน โฟลเดอร์จะปิดเมื่อคุณเปิดแอปในโฟลเดอร์นั้น";

@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "Sembunyikan latar ikon folder";
 "Hide Open Folder Background" = "Sembunyikan latar folder terbuka";
 "Hide Folder Titles" = "Sembunyikan tajuk folder";
+"Hide Folder Names on Home Screen" = "Sembunyikan nama folder pada Skrin Utama";
 "When enabled, tap anywhere on the screen to close the folder." = "Apabila didayakan, ketik di mana-mana pada skrin untuk menutup folder.";
 "Tap to Close" = "Ketik untuk tutup";
 "When enabled, the folder closes when you open an app in it." = "Apabila didayakan, folder ditutup apabila anda membuka apl di dalamnya.";

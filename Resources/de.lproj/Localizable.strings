@@ -78,6 +78,7 @@
 "Hide Folder Icon Background" = "Hintergrund des Ordnersymbols ausblenden";
 "Hide Open Folder Background" = "Hintergrund des geöffneten Ordners ausblenden";
 "Hide Folder Titles" = "Ordnernamen ausblenden";
+"Hide Folder Names on Home Screen" = "Ordnernamen auf dem Home-Bildschirm ausblenden";
 "When enabled, tap anywhere on the screen to close the folder." = "Wenn aktiviert, schließt Tippen irgendwo auf den Bildschirm den Ordner.";
 "Tap to Close" = "Zum Schließen tippen";
 "When enabled, the folder closes when you open an app in it." = "Wenn aktiviert, schließt sich der Ordner, wenn du eine App darin öffnest.";
